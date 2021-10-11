@@ -1,0 +1,49 @@
+body {
+  background-image: url("/images/blackpower.jpg");
+
+    font-family: 'Montserrat', sans-serif;
+    background: url(/images/blackpower.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight: b;
+   
+  
+}
+
+hr {
+  border-color: blueviolet;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: rgb(202, 37, 180);
+  
+  margin: 200px;
+}
+
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+  color: black;
+  
+}
+
+.btn-primary {
+  background-color: blueviolet;
+  border-color: blueviolet;
+} 
+
+.btn-primary:hover {
+  background-color: #fab003b0;
+  border-color: #fab003b0;
+}
+
+.buffer {
+  height: 50px;
+}
